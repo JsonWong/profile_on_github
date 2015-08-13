@@ -1,0 +1,11 @@
+*					{ margin: 0;
+                      padding: 0; }
+
+body				{  }
+
+.clear				{ clear: both; }
+
+center              {
+                      font-size: 55px;
+                      color: plum;
+                      font-family: Impact, Charcoal, sans-serif}
